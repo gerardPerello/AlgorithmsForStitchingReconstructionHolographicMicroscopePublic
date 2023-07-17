@@ -1,0 +1,46 @@
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/kripto/ImagesMic/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.5254237288135594, 3.117297042535643]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Se ha cargado el set de imagenes de /home/kripto/ImagesMic/Probando.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.4651162790697675, 2.6081596954267763]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.4651162790697675, 2.6081596954267763]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Exportando Hologramas
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.4651162790697675, 2.6081596954267763]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Nueva Session
+INFO:root:Se ha cargado la imagen /home/kripto/ImagesMic/mosaic2.png.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 1e-05 el nuevo Z0 es 0.00281
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 1e-05 el nuevo Z0 es 0.00282
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 1e-05 el nuevo Z0 es 0.00283
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 1e-05 el nuevo Z0 es 0.00287
+INFO:root:Holograma calculado con paso aumentado 1e-05 el nuevo Z0 es 0.00287
+INFO:root:Holograma calculado con paso aumentado 1e-05 el nuevo Z0 es 0.00287
+INFO:root:Holograma calculado con paso aumentado 1e-05 el nuevo Z0 es 0.00287
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Cerrando Aplicacion

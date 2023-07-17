@@ -1,0 +1,589 @@
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.71875, 0.7058823529411765]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.666858363797641, 0.6658615741762896]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.6086956521739131, 0.39285714285714296]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7096774193548387, 0.7058823529411765]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.68, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7096774193548387, 0.7058823529411765]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7647058823529411, 0.9166666666666666]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7096774193548387, 0.7058823529411765]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.6601932531276237, 0.8729203748606755]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7647058823529411, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7647058823529411, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7647058823529411, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_07/No va.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 11.20448622749805]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_07.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.767123287671233, 1.4545454545454548]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.6139563574420227, 0.5360767081829843]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:No se han podido calcuclar los valores.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/DummySets/Probando.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.6041862566711047, 0.6113168191222431]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.59375, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0005447635405044271, 1.1579019377708164]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.00036064395763356886, 1.1363839881989704]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00132798
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0005546686072512011, 1.1579063432617966]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.00122798
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.00112798
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00142798
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00152798
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00162798
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00162798
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00172798
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00172798
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.00282798
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Nueva Session
+INFO:root:Cerrando Aplicacion
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.56, 0.6794143283714453]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0005 el nuevo Z0 es 0.00163915
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0005 el nuevo Z0 es 0.00213915
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0005 el nuevo Z0 es 0.00263915
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0005 el nuevo Z0 es 0.00313915
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0005 el nuevo Z0 es 0.00363915
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso aumentado 0.0005 el nuevo Z0 es 0.00413915
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7534121088975886, 1.7015863842484928]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7037909995455403, 1.0653712110265683]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Creando la imagen de mosaico con los valores.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7257163915803393, 1.1336039225031656]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08/Muestras.
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.6979800788925845, 0.9583333333333335]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.7243089108189207, 0.9583333333333335]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0002050732540876856, 1.2777811988756123]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0005344527991449282, 1.1144635264724752]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.00026459164019004524, 1.1489101315809724]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0009681843153609656, 1.108525604206535]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.00016896706207190438, 1.170372961324263]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0003187243903668593, 1.2151163892354637]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0003540940527064343, 1.178089447356138]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0003817378607280534, 1.1302551403905803]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0003236342861829981, 1.1238000681972353]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0003817378607280534, 1.1302551403905803]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0003540940527064343, 1.178089447356138]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.00031933158503997145, 1.1204485113470382]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0003236342861829981, 1.1238000681972353]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.00015645910681137118, 1.1205720932406118]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.00031933158503997145, 1.1204485113470382]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08/TeixitMuscular1.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Cerrando Aplicacion
+INFO:root:Nueva Session
+INFO:root:Se ha cargado el set de imagenes de /home/labdis/projects/micProje/micProj/ImagesLibrary/HistorialSets/Test_2022_09_08/TeixitMuscular1.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.59375, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Holograma calculado con paso aumentado 0.0001 el nuevo Z0 es 0.0011315
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.0010315
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.0009315
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.0008315
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.0007315
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.0005315
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.0005315
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado con paso retrocedido 0.0001 el nuevo Z0 es 0.0004315
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:list index out of range
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.59375, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando los vectores de distancia.
+INFO:root:Vectores de distancia calculados.
+INFO:root:Creando la imagen de mosaico con los valores.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [-0.59375, 1.1176470588235294]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Mosaico calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Calculando altura automaticamente.
+INFO:root:Altura calculada.
+INFO:root:Calculando Holograma de la imagen de input.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+INFO:root:Holograma calculado.
+INFO:root:Cerrando Aplicacion
